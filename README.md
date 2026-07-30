@@ -11,13 +11,13 @@ Relational database implementation featuring equipment inventory tracking, activ
 
 ## Project Structure 📁
 
-````text`
+```text
 .
 ├── SQL_2071_Logic_Test.db   # SQLite Database file
 ├── schema.sql               # Tables creation script
 ├── queries.sql              # Operations, UPDATEs, and analytics queries
 └── README.md                # Documentation
-```` `
+```
 
 ## How to Run & Execute 🚀
 
